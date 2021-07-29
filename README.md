@@ -10,13 +10,13 @@
   <a href="https://dev.to/prolrayderorigin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prolrayderorigin" height="35" width="35" />
   </a>
-  <a href="https://twitter.com/prolrayderorigin" target="_blank">
+  <a href="https://twitter.com/prolrayder" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prolrayderorigin" height="35" width="35" />
   </a>
-  <a href="https://linkedin.com/in/prolrayderorigin" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-d-9aa067130/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prolrayderorigin" height="35" width="35" />
   </a>
-  <a href="https://www.twitch.tv/prolrayderorigin/about" target="_blank">
+  <a href="https://www.twitch.tv/prolrayder" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="prolrayderorigin" height="35" width="35" />
   </a>
 </p>
