@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme! Estudante de engenharia super interessado com programação!
+## Seja bem-vindo ao meu laboratório!
 <div align="center">
   <a href="https://github.com/ProlRayder">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProlRayder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
