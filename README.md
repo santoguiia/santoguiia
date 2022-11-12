@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu laboratório! (Cuidado com os insetos)
+## Olá, seja bem-vindo ao meu repositório!
 <div align="center">
   <a href="https://github.com/ProlRayder">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProlRayder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
