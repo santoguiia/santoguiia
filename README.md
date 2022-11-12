@@ -8,10 +8,11 @@ Previous works:
 <ul dir="auto"><li>ROBOTA - Arduino Prototyping, performing the functions in programming, electronics and mechanics of autonomous mobile robots (2022 - present)</ul></li>
 <ul dir="auto"><li>IT systems support - Development of technical skills in maintaining hardware, software, database and networks (2014 - 2015)</ul></li>
 
-I have vast knowledge in assembling and maintaining computers. I have knowledge with Python, Arduino, Raspberry, CLP, C++, C. I am currently developing new skills in Javascript, CSS3, HTML5 and Typescript.
+I have vast knowledge in assembling and maintaining computers. I have knowledge with Python, Arduino, Raspberry, CLP, C++, C.
+<br>Currently developing new skills in Javascript, CSS3, HTML5 and Typescript.
 
 You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">LinkedIn</a>
 
 ## Personal Projects
-<ul dir="auto"><li><a href="https://github.com/ProlRayder/Farm-Simulation">FARM Clicker</a> - Jogo estilo Cookie Clicker de fazenda, desenvolvido na linguagem de programção Python</li>
-<li><a href="https://github.com/ProlRayder/ATmega-328p">ATmega-328p</a> - Projeto desenvolvido que consiste na comunicação entre dois arduinos utilizando o microcontrolador</li></ul>
+<ul dir="auto"><li><a href="https://github.com/ProlRayder/Farm-Simulation">FARM Clicker</a> - Farm Cookie Clicker style game developed in Python programming language</li>
+<li><a href="https://github.com/ProlRayder/ATmega-328p">ATmega-328p</a> - Developed project that consists of communication between two arduinos using the microcontroller</li></ul>
