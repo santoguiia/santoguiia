@@ -10,6 +10,8 @@ Trabalhos anteriores:
 
 I have vast knowledge in assembling and maintaining computers. I have knowledge with Python, Arduino, Raspberry, CLP, C++, C. I am currently developing new skills in Javascript, CSS3, HTML5 and Typescript.
 
+You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">LinkedIn</a>
+
 ## Personal Projects
 <ul dir="auto"><li><a href="https://github.com/ProlRayder/Farm-Simulation">FARM Clicker</a> - Jogo estilo Cookie Clicker de fazenda, desenvolvido na linguagem de programção Python</li>
 <li><a href="https://github.com/ProlRayder/ATmega-328p">ATmega-328p</a> - Projeto desenvolvido que consiste na comunicação entre dois arduinos utilizando o microcontrolador</li></ul>
