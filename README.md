@@ -4,7 +4,7 @@ I'm Guilherme, I'm graduating from Control and Automation Engineering and progra
 
 I am currently studying Control and Automation Engineering at the Federal University of Santa Catarina (Florianópolis - SC) and I participate in the university's ROBOTA group. ROBOTA works with embedded electronics, algorithm development and construction of autonomous robots for several national and international competitions. The team also develops extension projects aimed at the community, aiming to enable the socialization of areas related to robotics and technology.
 
-Trabalhos anteriores:
+Previous works:
 <ul dir="auto"><li>ROBOTA - Arduino Prototyping, performing the functions in programming, electronics and mechanics of autonomous mobile robots (2022 - present)</ul></li>
 <ul dir="auto"><li>IT systems support - Development of technical skills in maintaining hardware, software, database and networks (2014 - 2015)</ul></li>
 
