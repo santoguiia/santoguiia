@@ -15,7 +15,8 @@ You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">Linked
 
 ## Personal Projects
 <ul dir="auto">
-<li><a href="https://santogui.netlify.app/#">My Portfolio Website</a> - Project under development using the languages HTML, CSS and JS</li>
+<li><a href="https://santogui.netlify.app/">My Portfolio Website</a> - Project under development using the languages HTML, CSS and JS</li>
+<li><a href="https://robota-ufsc.netlify.app/">ROBOTA</a> - Website developed for the Autonomous Mobile Robotics group at the University </li>
 <li><a href="https://github.com/ProlRayder/Farm-Simulation">FARM Clicker</a> - Farm Cookie Clicker style game developed in Python programming language</li>
-<li><a href="https://github.com/ProlRayder/ATmega-328p">ATmega-328p</a> - Developed project that consists of communication between two arduinos using the microcontroller</li>
+<li><a href="https://github.com/ProlRayder/ATmega-328p">ATmega-328p</a> - Project that consists of communication between two arduinos using the microcontroller</li>
 </ul>
