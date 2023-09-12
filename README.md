@@ -15,6 +15,6 @@ You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">Linked
 <ul dir="auto">
 <li><a href="https://santogui.netlify.app/">My Portfolio Website</a> - Project under development using the languages HTML, CSS and JS</li>
 <li><a href="https://robota-ufsc.netlify.app/">ROBOTA</a> - Website developed for the Autonomous Mobile Robotics group at the University </li>
-<li><a href="https://github.com/ProlRayder/RoadAI-Robotics">DinamIA</a> - Programming course for introduction to artificial intelligence and robotics</li>
+<li><a href="https://github.com/ProlRayder/RoadAI-Robotics">Código Infinito</a> - Course platform for programming in python</li>
 <li><a href="https://github.com/ProlRayder/Farm-Simulation">FARM Clicker</a> - Farm Cookie Clicker style game developed in Python programming language</li>
 </ul>
