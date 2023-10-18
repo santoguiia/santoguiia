@@ -1,4 +1,4 @@
-<img src="https://github.com/santoguiia/santoguiia/assets/44483048/715c0f8b-74b4-43de-8df1-e3ac3d00e4fa" alt="https://codigoinfinito.netlify.app" style="max-width: 100%;">
+<img src="https://github.com/santoguiia/santoguiia/assets/44483048/58e1ce2a-6725-45c5-b528-e37891afc97a" alt="https://codigoinfinito.netlify.app" style="max-width: 100%;">
 
 <div align="center" dir="auto">
 <p dir="auto"><a href="https://www.linkedin.com/in/santoguiia/" rel="nofollow"><img src="https://camo.githubusercontent.com/6c947197376afd84fcb89f0389e2ef24cae64768f43e67c5bd9fc42fdbdda72c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6361726c6f732d6d656c6f2d646174612d736369656e63652f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/carlos-melo-data-science/" style="max-width: 100%;"></a>
