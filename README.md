@@ -1,4 +1,4 @@
-<img src="https://github.com/santoguiia/santoguiia/assets/44483048/56d10156-0f9e-4f93-94a7-269846f5037f" alt="https://codigoinfinito.netlify.app" style="max-width: 100%;">
+<a href="https://codigoinfinito.netlify.app" rel="nofollow"><img src="https://github.com/santoguiia/santoguiia/blob/main/banner.jpg" alt="https://codigoinfinito.netlify.app"  style="max-width: 100%;">
 
 <hr></hr>
 
