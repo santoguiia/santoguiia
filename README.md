@@ -4,9 +4,7 @@
 
 Hello, welcome to my repository!
 
-I'm Guilherme, I'm graduating from Control and Automation Engineering and programming enthusiast!
-
-I am studying Control and Automation Engineering at the Federal University of Santa Catarina and currently interning at Ampera, a company focused on technologies for autonomous and electric cars. At Ampera, my central role is to develop systems for self-driving cars, aiming at safety and efficiency in driving. In addition, I founded "Código Infinito" to promote the training of new developers.
+I'm currently studying Control and Automation Engineering at the Federal University of Santa Catarina, and I'm interning at Ampera, a company that specializes in technologies for autonomous and electric cars. My central role at Ampera is to develop computer vision algorithms and test camera sensors for autonomous cars, with the goal of improving driving safety and efficiency. Additionally, I founded 'Código Infinito' to promote the training of new programmers.
 
 Previous works:
 <ul dir="auto"><li>Computer Vision Project Coordinator - During my time in this role, I was instrumental in developing a predictive line follower using advanced computer vision techniques. My work involved developing scripts in C++ and Python, as well as working closely with the team to create and implement algorithms for the robot's vision. (2022 - 2023)</ul></li>
