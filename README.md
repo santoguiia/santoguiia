@@ -1,7 +1,3 @@
-<a href="https://codigoinfinito.netlify.app" rel="nofollow"><img src="https://github.com/santoguiia/santoguiia/blob/main/banner.jpg" alt="https://codigoinfinito.netlify.app"  style="max-width: 100%;">
-
-<hr></hr>
-
 Hello, welcome to my repository!
 
 I'm currently studying Control and Automation Engineering at the Federal University of Santa Catarina, and I'm interning at Ampera, a company that specializes in technologies for autonomous and electric cars. My central role at Ampera is to develop computer vision algorithms and test camera sensors for autonomous cars, with the goal of improving driving safety and efficiency. Additionally, I founded 'Código Infinito' to promote the training of new programmers.
