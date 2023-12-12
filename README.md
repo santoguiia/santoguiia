@@ -15,5 +15,5 @@ You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">Linked
 <li><a href="https://santogui.netlify.app/">My Portfolio Website</a> - Project under development using the languages HTML, CSS and JS</li>
 <li><a href="https://github.com/santoguiia/BattleBot">Battlebot</a> -  Combat Robot developed for the Autonomous Mobile Robotics group at the University</li>
 <li><a href="https://github.com/santoguiia/NextGenLineBot-CPP/tree/main">NextGenLineBot</a> - Line follower robot with computer vision and predictive control</li>
-<li><a href="https://github.com/santoguiia/AmperaRacing-DetecaoCones-FSAE-Autonomo">Ampera</a> - Worked with a team of engineers on a self-driving car project in object detection</li>
+<li><a href="https://github.com/santoguiia/AmperaRacing-DetecaoCones-FSAE-Autonomo">Object detection</a> - Worked with a team of engineers on a self-driving car</li>
 </ul>
