@@ -1,4 +1,6 @@
-![devguia](https://github.com/santoguiia/santoguiia/assets/44483048/52df2bac-68b5-46a3-87c2-e38a75bfc83d)
+<a href="https://beacons.ai/santoguiia">
+    <img src="https://github.com/santoguiia/santoguiia/assets/44483048/52df2bac-68b5-46a3-87c2-e38a75bfc83d" alt="Sua descrição aqui">
+</a>
 
 <div align="center" dir="auto">
 <p dir="auto"><a href="https://www.linkedin.com/in/santoguiia/" rel="nofollow"><img src="https://camo.githubusercontent.com/7854abec06b4bddcf9f0c1b4d9a48fb2f2c558dd3a33d9cdc8129758e8c73dbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6361726c6f732d6d656c6f2d646174612d736369656e63652f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/carlos-melo-data-science/" style="max-width: 100%;"></a>
