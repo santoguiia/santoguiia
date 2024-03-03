@@ -1,4 +1,4 @@
-<a href="https://sightytics.com/">
+<a href="https://sightytics.com/" target="_blank">
     <img src="https://github.com/santoguiia/santoguiia/assets/44483048/52df2bac-68b5-46a3-87c2-e38a75bfc83d">
 </a>
 
