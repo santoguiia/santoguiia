@@ -1,5 +1,5 @@
-<a href="https://beacons.ai/santoguiia">
-    <img src="https://github.com/santoguiia/santoguiia/assets/44483048/52df2bac-68b5-46a3-87c2-e38a75bfc83d" alt="Sua descrição aqui">
+<a href="https://sightytics.com/">
+    <img src="https://github.com/santoguiia/santoguiia/assets/44483048/52df2bac-68b5-46a3-87c2-e38a75bfc83d">
 </a>
 
 <div align="center" dir="auto">
