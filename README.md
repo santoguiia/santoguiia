@@ -17,7 +17,7 @@ Previous works:
 <ul dir="auto"><li>IT Analyst - Structuring of database in MySQL for analysis of data of input and output of inventory. Technical support to the system. Online customer service. (2020 - 2022)</ul></li>
 <ul dir="auto"><li>IT Systems Support - Development of technical skills in the maintenance of computers and peripherals, installation of programs and updates, customer service and cash closing.. (2014 - 2016)</ul></li>
 
-You can also find me on <a href="https://www.linkedin.com/in/santos-gui/">LinkedIn</a>
+You can also find me on <a href="https://www.linkedin.com/in/santoguiia/">LinkedIn</a>
 
 
 ## Personal Projects
