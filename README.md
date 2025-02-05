@@ -10,14 +10,39 @@
 
 <hr>
 
-I'm currently studying Control and Automation Engineering at the Federal University of Santa Catarina, and I'm interning at Ampera, a company that specializes in technologies for autonomous and electric cars. My central role at Ampera is to develop computer vision algorithms and test camera sensors for autonomous cars, with the goal of improving driving safety and efficiency. 
+## About Me  
+I am a **Systems and Applications Analyst** at Hexagon, focused on optimizing embedded systems within the **Q&A Team**. My work involves maintaining operating systems, building automation tools, and streamlining processes to drive efficiency and innovation.  
 
-Previous works:
-<ul dir="auto"><li>Computer Vision Project Coordinator - During my time in this role, I was instrumental in developing a predictive line follower using advanced computer vision techniques. My work involved developing scripts in C++ and Python, as well as working closely with the team to create and implement algorithms for the robot's vision. (2022 - 2023)</ul></li>
-<ul dir="auto"><li>IT Analyst - Structuring of database in MySQL for analysis of data of input and output of inventory. Technical support to the system. Online customer service. (2020 - 2022)</ul></li>
-<ul dir="auto"><li>IT Systems Support - Development of technical skills in the maintenance of computers and peripherals, installation of programs and updates, customer service and cash closing.. (2014 - 2016)</ul></li>
+Currently pursuing a **B.Sc. in Control and Automation Engineering** at the Federal University of Santa Catarina, with hands-on experience in robotics and industrial systems.  
 
-You can also find me on <a href="https://www.linkedin.com/in/santoguiia/">LinkedIn</a>
+
+### Previous Experience  
+
+- **Computer Vision and Sensing Analyst** (2023 - 2024)  
+  Developed computer vision algorithms and tested camera sensors for autonomous vehicles at Ampera, enhancing safety and operational efficiency through:  
+  - Sensor calibration and performance validation.  
+  - Real-time object detection model optimization.  
+  - Collaboration with cross-functional teams to integrate vision systems.  
+
+- **Computer Vision Project Coordinator** (2022 - 2023)  
+  Spearheaded the development of a predictive line-follower robot using advanced CV techniques:  
+  - Designed Python/C++ scripts for real-time image processing.  
+  - Implemented path-planning algorithms to improve robotic navigation accuracy by 30%.  
+  - Led a 4-member team in prototyping and testing.
+
+- **Volunteer Research Scholar** (Feb 2019 - Jul 2019)  
+  Explored 3D printing and robotics fundamentals in a university lab:  
+  - Prototyped mechanical components using FDM 3D printers.
+  - Researched kinematic models for robotic arm manipulation.  
+
+- **IT Systems Support Technician** (2014 - 2016)  
+  Delivered technical solutions for hardware/software systems:  
+  - Performed diagnostics and maintenance on 100+ devices.  
+  - Installed/configurated OS and enterprise software.  
+  - Managed customer service and inventory tracking workflows.  
+
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/santoguiia/).  
 
 
 ## Personal Projects
