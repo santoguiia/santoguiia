@@ -11,7 +11,7 @@
 <hr>
 
 ## About Me  
-I am currently pursuing a B.Sc. in Control and Automation Engineering at the Federal University of Santa Catarina (UFSC). I am passionate about robotics, computer vision, and automation, with hands-on experience in embedded systems and industrial applications.
+I am currently pursuing a B.Sc. in Control and Automation Engineering at the Federal University of Santa Catarina (UFSC). I am passionate about robotics, computer vision, and automation, with hands-on experience in embedded systems and intelligence artificial.
 
 
 ### Previous Experience  
