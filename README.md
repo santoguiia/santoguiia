@@ -11,12 +11,14 @@
 <hr>
 
 ## About Me  
-I am a **Systems and Applications Analyst** at Hexagon, focused on optimizing embedded systems within the **Q&A Team**. My work involves maintaining operating systems, building automation tools, and streamlining processes to drive efficiency and innovation.  
-
-Currently pursuing a **B.Sc. in Control and Automation Engineering** at the Federal University of Santa Catarina, with hands-on experience in robotics and industrial systems.  
+I am currently pursuing a B.Sc. in Control and Automation Engineering at the Federal University of Santa Catarina (UFSC). I am passionate about robotics, computer vision, and automation, with hands-on experience in embedded systems and industrial applications.
 
 
 ### Previous Experience  
+- **Systems and Applications Analyst At Hexagon** (12/2024 - 06/2025)
+    - optimizing embedded systems within the **Q&A Team**;
+    - Maintaining operating systems;
+    - Building automation tools.
 
 - **Computer Vision and Sensing Analyst** (2023 - 2024)  
   Developed computer vision algorithms and tested camera sensors for autonomous vehicles at Ampera, enhancing safety and operational efficiency through:  
